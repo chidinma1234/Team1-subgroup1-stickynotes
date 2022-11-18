@@ -36,9 +36,29 @@ body {
     text-align: center;
     border-radius: 10px;
 }
+<<<<<<< HEAD
 .card_one h4 {
     margin: 0 0 0.6em;
 }
 .one {
     margin: 0 0 0.6em;
 }
+=======
+
+.BlessingAggrey{
+    background-color: pink;
+    margin: 1em;
+    padding: 2.5em 1em;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.B-h4{
+    background-color:rgb(190, 24, 152);
+}
+
+.B-p{
+    color:rgb(135, 31, 135);
+}
+
+>>>>>>> 275f2567368dff62205c80061b3c3cced42c4187
