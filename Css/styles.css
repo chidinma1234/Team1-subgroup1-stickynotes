@@ -36,7 +36,13 @@ body {
     text-align: center;
     border-radius: 10px;
 }
+.card_one h4 {
+    margin: 0 0 0.5em;
+}
 
+.one {
+    margin: 0 0 0.5em;
+}
 .BlessingAggrey {
     background-color: pink;
     margin: 1em;
