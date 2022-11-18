@@ -37,9 +37,7 @@ body {
     border-radius: 10px;
 }
 
-
-
-.BlessingAggrey{
+.BlessingAggrey {
     background-color: pink;
     margin: 1em;
     padding: 2.5em 1em;
@@ -47,12 +45,10 @@ body {
     border-radius: 10px;
 }
 
-.B-h4{
-    background-color:rgb(190, 24, 152);
+.B-h4 {
+    background-color: rgb(190, 24, 152);
 }
 
-.B-p{
-    color:rgb(135, 31, 135);
+.B-p {
+    color: rgb(135, 31, 135);
 }
-
->>>>>>> 275f2567368dff62205c80061b3c3cced42c4187
