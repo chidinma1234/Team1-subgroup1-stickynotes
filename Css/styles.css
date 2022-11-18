@@ -30,8 +30,15 @@ body {
 
 .card_one {
     background-color: slateblue;
+    color: aliceblue;
     margin: 1em;
     padding: 2.5em 1em;
     text-align: center;
     border-radius: 10px;
+}
+.card_one h4 {
+    margin: 0 0 0.6em;
+}
+.one {
+    margin: 0 0 0.6em;
 }
