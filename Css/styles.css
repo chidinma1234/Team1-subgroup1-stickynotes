@@ -58,3 +58,21 @@ body {
 .B-p {
     color: rgb(135, 31, 135);
 }
+.liz{
+    background: pink;
+    margin: 1em;
+    border-radius: 1rem;
+    text-align: center;
+}
+.h3{
+    background: whitesmoke;
+    color: palevioletred;
+}
+.date{
+    padding-top: 3rem;
+
+}
+.quote{
+    padding-top: 2rem;
+    font-size: large;
+}
