@@ -78,14 +78,14 @@ body {
 }
 
 #vicky{
-    background: #400d51;
+    background: #28d;
     width: 230px;
     border-radius: 1rem;
     padding: 50px;
     margin: 30px;
     color: #fff;
     text-align: center;
-    box-shadow: 5px 7px 5px black;
+    box-shadow: 5px 3px 2px #333;
 }
 
 .card-head{
